@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: youdao
+Version: 0.0.1
+Summary: 方便程序员在terminal查询生词的小工具
+Home-page: https://github.com/maczhis
+Author: maczhis
+Author-email: maczhis@gmail.com
+License: UNKNOWN
+Description: 方便程序员在terminal查询生词的小工具
+Keywords: python youdao dictionary terminal
+Platform: UNKNOWN

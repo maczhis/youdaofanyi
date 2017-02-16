@@ -1,0 +1,10 @@
+setup.py
+youdao/__init__.py
+youdao/youdao.py
+youdao.egg-info/PKG-INFO
+youdao.egg-info/SOURCES.txt
+youdao.egg-info/dependency_links.txt
+youdao.egg-info/entry_points.txt
+youdao.egg-info/not-zip-safe
+youdao.egg-info/requires.txt
+youdao.egg-info/top_level.txt
